@@ -47,4 +47,16 @@ public class Carro implements Vehiculo{
 		}
 		//Codigo para escuchar la radio
 	}
+
+	@Override
+	public void girarDerecha() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void girarIzquierda() {
+		// TODO Auto-generated method stub
+		
+	}
 }

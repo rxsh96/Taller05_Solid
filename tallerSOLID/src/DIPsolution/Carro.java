@@ -1,14 +1,16 @@
 package DIPsolution;
 public class Carro implements Asiento, Llanta{
 
-@Override
-void acoplar_asiento(){
- //Implementacion
-}
+	@Override
+	public void acoplar_llanta() {
+		// TODO Auto-generated method stub
+		
+	}
 
-@Override
-void acoplar_llanta(){
- //Implementacion
-}
+	@Override
+	public void acoplar_asiento() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
